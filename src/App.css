@@ -31,4 +31,8 @@
 
 .listEl {
   text-align: left;
+  padding: 3px;
+  list-style-position: inherit;
+  font-size: 14px;
+  list-style-image: url("https://img.icons8.com/ios/14/000000/christmas-star-filled.png");
 }
