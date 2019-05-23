@@ -1,4 +1,4 @@
-### List of films in which this an actor starred!
+### List of films in which an actor has starred!
 
 This project was created in React.
 
